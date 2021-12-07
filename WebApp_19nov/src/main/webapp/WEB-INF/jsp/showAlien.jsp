@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Alien details</title>
 </head>
 <body>
-   ${a}
+   ${a.aid}
 </body>
 </html>
